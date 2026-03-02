@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+._*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+build/
+dist/
+*.o
+*.a
+
+# Misc
+*.log
+Thumbs.db
